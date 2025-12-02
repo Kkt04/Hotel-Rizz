@@ -3,10 +3,8 @@
 A modern, responsive restaurant website for "Hotel RIZZ" featuring a full-featured menu, ordering system, customer reviews, and beautiful UI design.
 
 ## 🌟 Live Demo
-[Add your live deployment link here]
+[(https://hotel-rizz.vercel.app/)]
 
-## 📸 Screenshots
-![Hotel RIZZ Website Preview]([hotel-rizz.vercel.app](https://hotel-rizz.vercel.app/))
 
 ## ✨ Features
 
