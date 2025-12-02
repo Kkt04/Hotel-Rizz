@@ -6,7 +6,7 @@ A modern, responsive restaurant website for "Hotel RIZZ" featuring a full-featur
 [Add your live deployment link here]
 
 ## 📸 Screenshots
-![Hotel RIZZ Website Preview](hotel-rizz.vercel.app)
+![Hotel RIZZ Website Preview]([hotel-rizz.vercel.app](https://hotel-rizz.vercel.app/))
 
 ## ✨ Features
 
